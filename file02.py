@@ -1,8 +1,0 @@
-price_of_apples = int(20)
-apples_to_buy = input("How many apples would you like to buy? ")
-apples = int(apples_to_buy)
-price_of_oranges = int(25)
-oranges_to_buy = input("How many oranges would you like to buy? ")
-oranges = int(oranges_to_buy)
-total_amount = (apples*price_of_apples) + (oranges*price_of_oranges)
-print(f"The total amount is {total_amount}.")
